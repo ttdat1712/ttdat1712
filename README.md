@@ -45,12 +45,16 @@ _International University – Vietnam National University, Ho Chi Minh City_
 - Achieved **92% accuracy** with optimized Decision Tree model
 - Technologies: PySpark, Spark MLlib, scikit-learn, Pandas
 
-### 😊 Sentiment Classification for Vietnamese Student Feedback
-- Fine-tuned **BiLSTM** and **PhoBERT** to classify sentiment (88% accuracy, 0.85 F1-score)
-- Used `underthesea`, `NLPAug`, and `Seaborn` for preprocessing and visualization
-- Deployed real-time API with **FastAPI**
+💸 Fraud Detection in Bank Transactions
+- Built a binary classification model to detect fraudulent bank transactions
+- Used K-Means Clustering, DBSCAN, and Isolation Forest
+- Applied cross-validation and feature selection to enhance model reliability
+- Technologies: Python, scikit-learn, Pandas, Matplotlib
 
----
+📈 Stock Price Forecasting with LSTM & Sentiment Analysis
+- Predicted stock prices by combining LSTM with Twitter sentiment analysis
+- Engineered features from technical indicators and social media signals
+- Technologies: TensorFlow, Keras, Python, Tweepy, VADER, yFinance, Matplotlib
 
 ## 📜 Certifications
 
