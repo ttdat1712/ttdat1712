@@ -68,5 +68,5 @@ _International University – Vietnam National University, Ho Chi Minh City_
 
 - 📍 Linh Xuan, Thu Duc, Ho Chi Minh City  
 - 📧 Email: ttdat11a13@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/tiendat1712
+- 💼 LinkedIn: https://www.linkedin.com/in/tiendat1712/
 - 🧑‍💻 GitHub: https://github.com/ttdat1712
